@@ -1,4 +1,4 @@
-# SignUp-and-SignIn-CSS-Web-page
+# SignUp-and-SignIn-Web-page
 Signup and Signin webpage with transition using HTML, CSS and JAVASCRIPT
 
 
